@@ -12,7 +12,7 @@ a{
 }
 
  .background{
-     background-image: url(./img/скачать\ бекграунд!.png);
+     background-image: url(./img/family.png);
      background-size: cover; /*растягивает пропорционально высоте и ширине картинки */
      background-position: center;
      background-repeat: no-repeat; /*Свойство background-repeat устанавливает, как фоновые изображения будет повторяться*/
